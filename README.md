@@ -1,2 +1,2 @@
-# Cinema_online
+# Cinema_online - учебный проект
 cinema on-line
