@@ -2,3 +2,4 @@
 cinema on-line
 
 сверстана секция MAIN
+Сверстана секция ASIDE
